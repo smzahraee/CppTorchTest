@@ -10,9 +10,9 @@ Prerequisites
 
 ## Setup Instructions
 
-1. Download PyTorch C++ Library [Link](https://pytorch.org/get-started/locally/)
+1. Download PyTorch C++ Library 
 
-    Visit the PyTorch Get Started page.
+    Visit the PyTorch Get Started page.[Link](https://pytorch.org/get-started/locally/)
     Select the options for your environment:
 
         Compute Platform: CPU
@@ -28,8 +28,6 @@ Prerequisites
 3. Build the Project
 
     Follow these steps to build the project:
-
-    Clone the repository:
 
     ```bash
     git clone https://github.com/smzahraee/CppTourchTest.git
