@@ -13,6 +13,7 @@ Prerequisites
 1. Download PyTorch C++ Library 
 
     Visit the PyTorch Get Started page.[Link](https://pytorch.org/get-started/locally/)
+    
     Select the options for your environment:
 
         Compute Platform: CPU
