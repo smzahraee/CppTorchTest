@@ -10,7 +10,7 @@ Prerequisites
 
 ## Setup Instructions
 
-1. Download PyTorch C++ Library
+1. Download PyTorch C++ Library [Link](https://pytorch.org/get-started/locally/)
 
     Visit the PyTorch Get Started page.
     Select the options for your environment:
@@ -32,8 +32,8 @@ Prerequisites
     Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-project.git
-    cd your-project
+    git clone https://github.com/smzahraee/CppTourchTest.git
+    cd CppTourchTest
     mkdir build && cd build
     cmake -DCMAKE_PREFIX_PATH=/path/to/libtorch ../
     make -j4
